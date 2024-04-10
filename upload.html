@@ -11,7 +11,7 @@
         function uploadFile() {
             const fileInput = document.getElementById('fileInput');
             const file = fileInput.files[0];
-            const url = 'https://api.github.com/repos/YYDSQAQ1024/fmenu_store/contents/';
+            const url = 'https://api.github.com/repos/YYDSQAQ1024/fmenu_store/contents/'+file;
             const token = 'github_pat_11A2Q2OXY0sew6'+'FgQp1N7p_Ct895fqSTMtlDtOBc5lMY9gpCVY2TQf'+'RpzTmSSPEdQ8GMEY4DF4slvXq5Zd';
 
             const reader = new FileReader();
