@@ -1,0 +1,188 @@
+guide: false
+maker: gobi_wang
+model: ItemName
+calculation: false
+h: 5
+w: 9
+'22':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'0':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'1':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'2':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'3':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'4':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'5':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'6':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'7':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'8':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'17':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'16':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'15':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'14':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'13':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'12':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'11':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'10':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'9':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'18':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'19':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'20':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'21':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'23':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'24':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'25':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'26':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'35':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'34':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'33':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'32':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'31':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'30':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'29':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'28':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'27':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'36':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'37':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'38':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'39':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'40':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'41':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'42':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'43':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+'44':
+  item: EXPERIENCE_BOTTLE
+  name: ''
+  mount: 1
+title: q
+enable: true
